@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #112233;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: #112233;
+    color: #fff;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+section {
+    margin: 20px;
+}
+
+.project {
+    width: 200px; /* Square dimensions */
+    height: 200px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    display: inline-block; /* Aligns the containers side by side */
+    text-align: center;
+    line-height: 200px; /* Vertically centers the text */
+}
+
+h1, h2 {
+    text-align: center;
+    color: #456;
+}
+
+#bio, #work {
+    text-align: center;
+    background-color: #112233;
+    padding: 15px;
+    color: #fff;
+}
+
+footer {
+    background-color: #112233;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+}
